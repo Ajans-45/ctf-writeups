@@ -212,7 +212,7 @@ picoCTF{g30_b453d_r0u71n9_b92fe966}
 
 ---
 
-![image1.png](/screenshots/image1.png)
+![image1.png](screenshots/image1.png)
 
 ---
 
